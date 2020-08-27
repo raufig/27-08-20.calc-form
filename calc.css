@@ -1,0 +1,11 @@
+.calc {
+    width:180px;
+    height:auto;
+    padding:10px 0;
+    margin: auto;
+    background:#232323;
+    border:#000 1px solid;
+    border-radius:7px;
+
+    text-align: center;
+}

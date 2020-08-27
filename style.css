@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.formu{
+    width: 48%;
+    margin: auto;
+    margin-top: 100px;
+}
+.camposForm{
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.camposForm label{
+    margin-bottom: 10px;
+}
+
+.alert{
+    background-color: rgb(189, 42, 42);
+}
+
+.mensajeAlerta{
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
